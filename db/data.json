@@ -1,0 +1,41 @@
+[
+  {
+    "firstname": "Natia",
+    "age": 27,
+    "job": "Software QA",
+    "hobbies": "coding",
+    "about": "Hello, I am Natia. I love coding and My goal is to become a front end developer "
+  },
+
+  {
+    "firstname": "Nina",
+    "age": 26,
+    "job": "Developer",
+    "hobbies": "coding",
+    "about": "Hello, I am Nina. I love coding and My goal is to become a front end developer "
+  },
+
+  {
+    "firstname": "Mariami",
+    "age": 25,
+    "job": "Developer",
+    "hobbies": "coding",
+    "about": "Hello, I am Mariam. I love coding and My goal is to become a front end developer "
+  },
+
+  {
+    "firstname": "Tina",
+    "age": 26,
+    "job": "Developer",
+    "hobbies": "coding",
+    "about": "Hello, I am Tina. I love coding and My goal is to become a front end developer "
+  },
+
+  {
+    "firstname": "Salome",
+    "age": 24,
+    "job": "Software QA",
+    "hobbies": "coding",
+    "about": "Hello, I am Salome. I love coding and My goal is to become a front end developer "
+  }
+]
